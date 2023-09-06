@@ -1,2 +1,2 @@
-# haikus
-a repository for haikus
+# poems
+a repository for poems
